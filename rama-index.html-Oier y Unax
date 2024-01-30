@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head> mi primera web GIT </head>
+<head>
+	<title>mi primera web GIT</title>
+</head>
 <body>
 	<h1> </h1>
 </body>
